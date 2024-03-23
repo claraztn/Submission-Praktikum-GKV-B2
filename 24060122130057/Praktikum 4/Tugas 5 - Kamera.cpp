@@ -1,7 +1,7 @@
 /* 
 Nama	: Clara Zita Nabilla 
-NIM		: 24060122130057
-Lab		: B2
+NIM	: 24060122130057
+Lab	: B2
 */
 
 #include <stdlib.h> // standard library
